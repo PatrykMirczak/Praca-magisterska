@@ -1,0 +1,9 @@
+/[L|l]ibrary/
+/[L|l]ogs/
+/[T|t]emp/
+/[U|u]ser[S|s]ettings/
+/[B|b]uild/
+/[B|b]uilds/
+*.csproj
+*.sln
+*.suo
