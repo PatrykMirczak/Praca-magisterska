@@ -17,7 +17,9 @@ The goal of the project is to investigate how evolutionary methods can develop e
 
 ## Overview
 
-The simulation consists of multiple parallel arenas where AI-controlled bots compete against each other and against scripted opponents.
+This simulation was developed as part of my Master's Thesis focused on evolutionary AI methods in game environments.
+
+The project consists of multiple parallel arenas where AI-controlled bots compete against each other and against scripted opponents.
 
 Each bot perceives its environment through sensors and makes decisions using a feed-forward neural network.
 
